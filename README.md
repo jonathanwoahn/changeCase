@@ -1,3 +1,7 @@
+# NOTE
+
+This is not my repo, the original was removed from github, and many of my projects used it. So I've copied it here so that I can reference it as needed.
+
 # Change Case
 
 [![Bower version](https://badge.fury.io/bo/change-case.svg)](http://badge.fury.io/bo/change-case)
